@@ -1,0 +1,2 @@
+# cdn
+Some static files
